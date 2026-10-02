@@ -40,6 +40,7 @@ Tools and initiatives focused on soil quality, carbon sequestration, and long-te
 
 Technologies that optimize resource use such as fertilizers, water, and energy.
 
+- [Agricalc](https://agricalc.online/) — Free science-based agriculture calculators covering planting, fertilization, irrigation, harvest, and marketing; works offline as a PWA
 - [John Deere Precision Agriculture](https://www.deere.com/en/technology-products/precision-ag-technology/) — Tools for optimizing field operations and reducing input waste.
 - [Trimble Agriculture](https://agriculture.trimble.com/) — Precision agriculture solutions for efficient farming.
 - [Raven Precision](https://ravenind.com/) — Technologies for precision application and resource management.
